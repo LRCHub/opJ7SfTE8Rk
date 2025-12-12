@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お化けガオ",
+  "base_artist": "はろける",
+  "createdAt": "2025-12-12T13:20:18.139436Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お化けガオ",
+      "artist": "はろける",
+      "has_synced": false,
+      "path": "select/pl_01_お化けガオ_はろける.txt"
+    }
+  ]
+}
